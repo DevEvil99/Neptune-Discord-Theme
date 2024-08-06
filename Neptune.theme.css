@@ -1,12 +1,13 @@
 /**
   * @name Neptune
-  * @author DevEvil#8745
-  * @version 2.0
+  * @author DevEvil
+  * @version 3.0
   * @description A dark, blue and customizable theme
   * @authorId 468132563714703390
   * @authorLink https://devevil.com
   * @source https://github.com/DevEvil99/Neptune-Discord-Theme
   * @website https://devevil.com
+  * @donate https://oxapay.com/donate/76037572
   * @invite jsQ9UP7kCA
 */
 
@@ -23,5 +24,4 @@
   --watermark-filter-hue-rotate: 150deg;
   --watermark-filter-brightness: 70%;
   --watermark-filter-contrast: 200%;
-  --neptune-emoji-picker-color: 180deg;
 }
