@@ -12,16 +12,17 @@
 - **Home icon**
 - **Colors**
 
+# My Other Themes
+- **[Dark+](https://betterdiscord.app/theme/Dark%2B)**
+- **[Ocean](https://betterdiscord.app/theme/Ocean)**
+- **[Azurite](https://betterdiscord.app/theme/Azurite)**
+- **[RosyNight](https://betterdiscord.app/theme/RosyNight)**
+
 # Links 
 **[Download](https://betterdiscord.app/theme/Neptune)** <br>
 **[Website](https://devevil.com)** <br>
 **[Support Server](https://discord.gg/jsQ9UP7kCA)** <br>
 **[Contact](https://devevil.com/contact)** <br>
-
-# My Other Themes
-- **[Dark+](https://betterdiscord.app/theme/Dark%2B)**
-- **[Ocean](https://betterdiscord.app/theme/Ocean)**
-- **[Azurite](https://betterdiscord.app/theme/Azurite)**
 
 
 **Made with 💙 by [@devevil/DevEvil#8745](https://devevil.com/)**
