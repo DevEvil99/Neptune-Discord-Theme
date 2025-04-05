@@ -6,15 +6,17 @@
 </div>
 <br>
 
-![image](https://user-images.githubusercontent.com/73029696/151663153-7c5d83a9-98f8-4907-a866-ddfbef232927.png)
+![neptune](https://github.com/user-attachments/assets/739c5c10-2428-4ee9-9d09-d0f03073a98e)
+
 
 # User customization
 - **Home icon**
 - **Colors**
 
-# My Other Themes
-- **[Dark+](https://betterdiscord.app/theme/Dark%2B)**
+# All of my themes
+- **[Dark+](https://betterdiscord.app/theme/Dark+)**
 - **[Ocean](https://betterdiscord.app/theme/Ocean)**
+- **[Neptune](https://betterdiscord.app/theme/Neptune)**
 - **[Azurite](https://betterdiscord.app/theme/Azurite)**
 - **[RosyNight](https://betterdiscord.app/theme/RosyNight)**
 
